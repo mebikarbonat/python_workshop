@@ -1,3 +1,6 @@
+//Muhammad Azizi Mohd Ariffin
+//mazizi@fskm.uitm.edu.my
+
 import platform
 
 def printOutPlatform():
