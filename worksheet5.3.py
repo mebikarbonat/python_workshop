@@ -15,6 +15,8 @@ connection = ConnectHandler(**linux)
 output = connection.send_command('uname -a')
 print('This is your kernel version: \n')
 print(output)
+print(" \n")
+print("Installing Apache2 Web Server...")
 
 #installing apache2 web server
 connection.enable()
